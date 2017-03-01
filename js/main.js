@@ -1,4 +1,4 @@
 
 function saludar(){
-	console.log("Hola gato");
+	console.log("Adios mundo");
 }saludar();
